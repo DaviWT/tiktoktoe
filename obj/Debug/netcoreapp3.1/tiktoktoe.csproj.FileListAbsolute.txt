@@ -1,0 +1,13 @@
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.exe
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.deps.json
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.runtimeconfig.json
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.runtimeconfig.dev.json
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.dll
+G:\GameDev\tiktoktoe\bin\Debug\netcoreapp3.1\tiktoktoe.pdb
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.csprojAssemblyReference.cache
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.AssemblyInfoInputs.cache
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.AssemblyInfo.cs
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.csproj.CoreCompileInputs.cache
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.dll
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.pdb
+G:\GameDev\tiktoktoe\obj\Debug\netcoreapp3.1\tiktoktoe.genruntimeconfig.cache
